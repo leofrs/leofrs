@@ -23,8 +23,7 @@
 <h2 align="center">⚒️ Ferramentas e Recursos ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,tailwind,git," />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,tailwind,git,nodejs,javascript,typescript,express,nextjs,mysql" />
 </div>
 
 <br/>
