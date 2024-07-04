@@ -10,11 +10,8 @@
   <a href="mailto:leofrrodrigues86@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/leonardo-frsantos/" target="_blank">
+  <a href="https://www.linkedin.com/in/leofrs/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://portifolio-website-three.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
@@ -23,8 +20,7 @@
 <h2 align="center">⚒️ Ferramentas e Recursos ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,tailwind,git,nodejs,javascript,typescript,express,nextjs,mysql" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,javascript,typescript,nodejs,git,docker,react,spring boot" />
 </div>
 
 <br/>
-
