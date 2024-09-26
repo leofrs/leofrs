@@ -3,7 +3,7 @@
 Sou desenvolvedor full stack, especializado em React para o front-end e Node.js para o back-end. Tenho experiência em construir aplicações escaláveis e responsivas, utilizando bibliotecas como Redux para gerenciamento de estado e Express para criar APIs robustas. Estou sempre em busca de aprimorar minhas habilidades e delves em novas tecnologias. Meu objetivo é criar experiências de usuário excepcionais e solucionar problemas de forma eficiente.
 
 
-💬 Para entrar em contato basta enviar um email para mailto:leofrrodrigues86@gmail.com
+💬 Para entrar em contato basta enviar um email para leofrrodrigues86@gmail.com
 
 ---
 
